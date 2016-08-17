@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjetoNewHello</string>
+    <string name="str_login">Login</string>
+    <string name="str_senha">Senha</string>
+    <string name="str_hint_login">Digite seu Email</string>
+    <string name="str_hint_senha">Digite sua Senha de 6 dígitos</string>
+    <string name="str_entrar">Entrar</string>
+</resources>
